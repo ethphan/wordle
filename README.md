@@ -1,3 +1,7 @@
+# Live Demo link
+
+This project has been deployed on Netlify. Here is the live link [https://mpac-wordle.netlify.app/](https://mpac-wordle.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
